@@ -1,0 +1,1 @@
+Kod python programlama dilinde yazılmıştır. Çalıştırıldığında konsoldan istenen cümle girilebilir ve 'Görev 2' bölümünde belirtlilen şartlara göre çıktı alınır.
