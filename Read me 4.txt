@@ -1,0 +1,2 @@
+Index.html dosyası açıldığında web sitesi direk karşımıza gelecektir. Görev 4'te yazan şartlara göre yaptım umarım eksiğim yoktur. Bootstrap öğrenmek için eğitim videolarını izlemeye devam edeceğim.
+Html dosyası açılmadan önce klasörden başka bir yere kopyalanmamalıdır. Direk Görev 4 dosyasının içinden açılmalıdır.
