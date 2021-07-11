@@ -1,0 +1,1 @@
+Kod python programlama dilinde yazılmıştır .Kodu çalıştırıp konsol bölümünden herhangi bir kelime veya kelime dizisi girilince doğru sonuç vermektedir.
