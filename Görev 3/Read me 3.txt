@@ -1,0 +1,1 @@
+Htlm dosyası açıldığında karşımıza bir text box gelecek .ip-api.com sitesinde uygun olan herhangi bir ip adresi girildiğinde ve butona basıldığında istenen bilgiler verilecektir.

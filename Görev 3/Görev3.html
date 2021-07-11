@@ -1,0 +1,12 @@
+<doctype html>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <input id="in"><button onclick="findip()">Find ip infos !</button><div id="out"></div>
+    <script>
+    function findip(){
+    $.get("http://ip-api.com/json/" +document.getElementById("in").value,function(data){
+    document.getElementById("out").innerHTML="ip: "+data.query+"<br> Latitude:"+data.lat+"<br> Longitude:"+data.lon+"<br> Country:"+data.country;
+    }
+    )
+    }
+    </script>
+    </doctype>
